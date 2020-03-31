@@ -37,11 +37,6 @@ dist/
 # cache
 .cache
 
-# misc
-.env
-.env.test
-nodemon.json
-
 # dependencies
 /node_modules
 
@@ -83,5 +78,4 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local# See
-
-client/
+nodemon.json
